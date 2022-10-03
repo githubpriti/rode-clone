@@ -1,6 +1,6 @@
 # Project rode-clone
 
-[Live link](https://guileless-gecko-16759d.netlify.app)
+[Live link](https://charming-melba-57533b.netlify.app)
 ## Name:Vaishnavi Jaju
 
 **The project almost 1.5 day to complete.**
